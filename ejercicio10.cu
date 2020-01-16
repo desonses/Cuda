@@ -19,7 +19,7 @@ desonses@gmail.com para mas comentarios
 #define N 32
 
 /*
-calcula el area baja una curva con particiones de tipo log()
+calcula el valor aproximado de pi, realizando particiones (entre mas, hay mas aproximacion al valor)
 */
 
 __host__ float func(float valor) 
